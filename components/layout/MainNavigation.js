@@ -1,9 +1,11 @@
+import styles from "./MainNavigation.module.css";
+
 import Link from "next/link";
 import Logo from "./Logo";
 
 function MainNavigation() {
   return (
-    <header>
+    <header className={styles.header}>
       <Link href="/">
         <Logo />
       </Link>
