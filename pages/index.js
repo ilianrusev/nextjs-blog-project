@@ -3,7 +3,7 @@ import Hero from "@/components/home-page/Hero";
 
 import { Fragment } from "react";
 
-const DUMMY_POSTS = [
+export const DUMMY_POSTS = [
   {
     title: "Getting Started with NextJS",
     image: "getting-started-nextjs.png",
