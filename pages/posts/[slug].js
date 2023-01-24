@@ -1,5 +1,5 @@
 function PostDetailsPage() {
-    return (  );
+  return <></>;
 }
 
 export default PostDetailsPage;

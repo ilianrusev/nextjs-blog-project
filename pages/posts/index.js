@@ -1,5 +1,5 @@
 function AllPostsPage() {
-    return (  );
+  return <></>;
 }
 
 export default AllPostsPage;
