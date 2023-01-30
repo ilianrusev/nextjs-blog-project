@@ -13,7 +13,7 @@
   color: var(--color-grey-800);
 }
 
-.content .image {
+.content p img {
   margin: var(--size-4) auto;
   width: 100%;
   max-width: 600px;
